@@ -90,7 +90,7 @@ function generateArtistHtml(artists) {
 
     artistsHtml += html`
       <div
-        style="display:flex;flex-direction:column;align-items:center;justify-content:space-between;"
+        style="display:flex;flex-direction:column;align-items:center;justify-content:space-between;margin:15px;"
       >
         <img src="${image}" alt="${name}" style="height:160px;width:160px" />
         <a href="${url}">${name}</a>
@@ -101,10 +101,7 @@ function generateArtistHtml(artists) {
   return html`
     <!-- begin artists -->
 
-    <div
-      id="artists"
-      style="display:grid;grid-template-columns:repeat(auto-fill, 160px);grid-gap:15px;justify-items:start;"
-    >
+    <div id="artists" style="display:flex;flex-wrap:wrap;">
       ${artistsHtml}
     </div>
     <!-- end artists -->
