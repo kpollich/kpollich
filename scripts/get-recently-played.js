@@ -4,7 +4,7 @@ const axios = require("axios");
 const qs = require("query-string");
 const fs = require("fs");
 const path = require("path");
-const { html } = require("common-tags");
+const { stripIndent } = require("common-tags");
 
 const {
   SPOTIFY_CLIENT_ID,
@@ -23,8 +23,8 @@ async function main() {
   const topArtists = await getTopArtists(token);
   console.log("Got artists data");
 
-  console.log("Generating HTML...");
-  const html = generateArtistHtml(topArtists.items);
+  console.log("Generating Artists Markdown...");
+  const artistsMarkdown = generateArtistMarkdown(topArtists.items);
 
   const readme = await (
     await fs.promises.readFile(path.join(__dirname, "../README.md"))
@@ -32,7 +32,7 @@ async function main() {
 
   const newReadme = readme.replace(
     /\<\!\-\- begin artists \-\-\>(.|\s)*\<\!\-\- end artists \-\-\>/gi,
-    html
+    artistsMarkdown
   );
 
   await fs.promises.writeFile(path.join(__dirname, "../README.md"), newReadme);
@@ -80,30 +80,32 @@ async function getTopArtists(token) {
   return response.data;
 }
 
-function generateArtistHtml(artists) {
-  let artistsHtml = "";
+function generateArtistMarkdown(artists) {
+  let images = [];
+  let links = [];
 
   for (const artist of artists.slice(0, 5)) {
     const name = artist.name;
     const url = artist.external_urls.spotify;
     const image = artist.images[artist.images.length - 1].url;
 
-    artistsHtml += html`
-      <div
-        style="display:flex;flex-direction:column;align-items:center;justify-content:space-between;margin:15px;"
-      >
-        <img src="${image}" alt="${name}" style="height:160px;width:160px" />
-        <a href="${url}">${name}</a>
-      </div>
-    `;
+    images.push({ url: image, alt: name });
+    links.push({ name, url });
   }
 
-  return html`
-    <!-- begin artists -->
+  const imageRow = `|${images
+    .map(({ url, alt }) => `![${alt}](${url})`)
+    .join("|")}|`;
 
-    <div id="artists" style="display:flex;flex-wrap:wrap;">
-      ${artistsHtml}
-    </div>
+  const linksRow = `|${links
+    .map(({ name, url }) => `[${name}](${url})`)
+    .join("|")}|`;
+
+  return stripIndent`
+    <!-- begin artists -->
+      ${imageRow}
+      |:---:|:---:|:---:|:---:|:---:|
+      ${linksRow}
     <!-- end artists -->
   `;
 }
