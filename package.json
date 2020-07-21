@@ -1,0 +1,27 @@
+{
+  "name": "kpollich",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "get-recently-played": "node scripts/get-recently-played"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpollich/kpollich.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpollich/kpollich/issues"
+  },
+  "homepage": "https://github.com/kpollich/kpollich#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "common-tags": "^1.8.0",
+    "dotenv": "^8.2.0",
+    "query-string": "^6.13.1"
+  }
+}
