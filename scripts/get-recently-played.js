@@ -89,41 +89,22 @@ function generateArtistHtml(artists) {
     const image = artist.images[artist.images.length - 1].url;
 
     artistsHtml += html`
-      <div>
-        <img src="${image}" alt="${name}" />
+      <div
+        style="display:flex;flex-direction:column;align-items:center;justify-content:space-between;"
+      >
+        <img src="${image}" alt="${name}" style="height:160px;width:160px" />
         <a href="${url}">${name}</a>
       </div>
     `;
   }
 
-  const style = html`
-    <style>
-      #artists {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, 160px);
-        grid-gap: 15px;
-        justify-items: start;
-      }
-
-      #artists div {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: space-between;
-      }
-
-      #artists img {
-        height: 160px;
-        width: 160px;
-      }
-    </style>
-  `;
-
   return html`
     <!-- begin artists -->
-    ${style}
 
-    <div id="artists">
+    <div
+      id="artists"
+      style="display:grid;grid-template-columns:repeat(auto-fill, 160px);grid-gap:15px;justify-items:start;"
+    >
       ${artistsHtml}
     </div>
     <!-- end artists -->
