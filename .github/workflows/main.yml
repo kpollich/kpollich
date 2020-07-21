@@ -21,6 +21,8 @@ jobs:
     - run: npm install
     - run: npm run get-recently-played
     - run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
         git commit -am "(action) update recent artists"
         git push
     env:
