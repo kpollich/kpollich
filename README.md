@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![The Midnight](https://i.scdn.co/image/aef4c8f3992a5ddb727bd0468854d7e1047a8851)|![Christian Lee Hutson](https://i.scdn.co/image/e803cdc6e5a109c3fbb7e0b3cd9a63a06c001e9c)|![Carly Rae Jepsen](https://i.scdn.co/image/75bb29e9852e14d6e8495950a7d20b7715a919c5)|
+  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![Covet](https://i.scdn.co/image/0648b3f706778533872aed129bedbdccb1cd60ff)|![Christian Lee Hutson](https://i.scdn.co/image/e803cdc6e5a109c3fbb7e0b3cd9a63a06c001e9c)|![Carly Rae Jepsen](https://i.scdn.co/image/75bb29e9852e14d6e8495950a7d20b7715a919c5)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw)|[Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|
+  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV)|[Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|
 <!-- end artists -->
