@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![Covet](https://i.scdn.co/image/0648b3f706778533872aed129bedbdccb1cd60ff)|![Christian Lee Hutson](https://i.scdn.co/image/e803cdc6e5a109c3fbb7e0b3cd9a63a06c001e9c)|![Cloud Nothings](https://i.scdn.co/image/918a3772578036c69ac132b849ba84320dda754b)|
+  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![The 1975](https://i.scdn.co/image/1717dac024e71f64ec421a658c7a9769d41ce251)|![Covet](https://i.scdn.co/image/0648b3f706778533872aed129bedbdccb1cd60ff)|![Christian Lee Hutson](https://i.scdn.co/image/e803cdc6e5a109c3fbb7e0b3cd9a63a06c001e9c)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV)|[Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3)|[Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT)|
+  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV)|[Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3)|
 <!-- end artists -->
