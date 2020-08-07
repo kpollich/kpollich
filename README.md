@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![The 1975](https://i.scdn.co/image/1717dac024e71f64ec421a658c7a9769d41ce251)|![Covet](https://i.scdn.co/image/0648b3f706778533872aed129bedbdccb1cd60ff)|![Mom Jeans.](https://i.scdn.co/image/660356d49dcc8db40417fc1456161a610db641a0)|
+  |![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![The 1975](https://i.scdn.co/image/1717dac024e71f64ec421a658c7a9769d41ce251)|![Covet](https://i.scdn.co/image/0648b3f706778533872aed129bedbdccb1cd60ff)|![Mom Jeans.](https://i.scdn.co/image/660356d49dcc8db40417fc1456161a610db641a0)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV)|[Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h)|
+  |[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV)|[Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h)|
 <!-- end artists -->
