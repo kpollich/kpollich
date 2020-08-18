@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![The 1975](https://i.scdn.co/image/1717dac024e71f64ec421a658c7a9769d41ce251)|![Covet](https://i.scdn.co/image/0648b3f706778533872aed129bedbdccb1cd60ff)|![Mom Jeans.](https://i.scdn.co/image/660356d49dcc8db40417fc1456161a610db641a0)|![Taylor Swift](https://i.scdn.co/image/b1627ca86690d2c5b6cc2fb1039a31014e96a22b)|
+  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![The 1975](https://i.scdn.co/image/1717dac024e71f64ec421a658c7a9769d41ce251)|![Mom Jeans.](https://i.scdn.co/image/660356d49dcc8db40417fc1456161a610db641a0)|![Covet](https://i.scdn.co/image/0648b3f706778533872aed129bedbdccb1cd60ff)|![Taylor Swift](https://i.scdn.co/image/b1627ca86690d2c5b6cc2fb1039a31014e96a22b)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV)|[Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h)|[Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02)|
+  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h)|[Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV)|[Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02)|
 <!-- end artists -->
