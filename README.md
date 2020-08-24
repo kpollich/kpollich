@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![The 1975](https://i.scdn.co/image/1717dac024e71f64ec421a658c7a9769d41ce251)|![Taylor Swift](https://i.scdn.co/image/b1627ca86690d2c5b6cc2fb1039a31014e96a22b)|![Christian Lee Hutson](https://i.scdn.co/image/e803cdc6e5a109c3fbb7e0b3cd9a63a06c001e9c)|![black midi](https://i.scdn.co/image/915eaab66e23e495dd336f4635218c945f2babaf)|
+  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![The 1975](https://i.scdn.co/image/1717dac024e71f64ec421a658c7a9769d41ce251)|![Christian Lee Hutson](https://i.scdn.co/image/e803cdc6e5a109c3fbb7e0b3cd9a63a06c001e9c)|![black midi](https://i.scdn.co/image/915eaab66e23e495dd336f4635218c945f2babaf)|![Flume](https://i.scdn.co/image/7ac9ab91bd347f8eb5fb451be780a805624617b3)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02)|[Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3)|[black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL)|
+  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3)|[black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL)|[Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer)|
 <!-- end artists -->
