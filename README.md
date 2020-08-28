@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Christian Lee Hutson](https://i.scdn.co/image/e803cdc6e5a109c3fbb7e0b3cd9a63a06c001e9c)|![Flume](https://i.scdn.co/image/7ac9ab91bd347f8eb5fb451be780a805624617b3)|![The Smashing Pumpkins](https://i.scdn.co/image/a29b16ebc4ef6598067b34b6a5add5da153bb0ec)|![Julien Baker](https://i.scdn.co/image/d20c311a41fcb07a1c2d3775383802e71aa40c03)|
+  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Jacob Collier](https://i.scdn.co/image/98b562e83bb688e788777c0c1fbdc09e44a36059)|![Bully](https://i.scdn.co/image/3b3526ca6fab7ddc7dd63222237dfb061e68264c)|![Christian Lee Hutson](https://i.scdn.co/image/e803cdc6e5a109c3fbb7e0b3cd9a63a06c001e9c)|![Flume](https://i.scdn.co/image/7ac9ab91bd347f8eb5fb451be780a805624617b3)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3)|[Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer)|[The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|
+  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD)|[Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ)|[Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3)|[Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer)|
 <!-- end artists -->
