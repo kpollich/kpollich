@@ -26,7 +26,7 @@ async function main() {
   console.log("Generating Artists Markdown...");
   const artistsMarkdown = generateArtistMarkdown(topArtists.items);
 
-  const readme = await (
+  const readme = (
     await fs.promises.readFile(path.join(__dirname, "../README.md"))
   ).toString();
 
