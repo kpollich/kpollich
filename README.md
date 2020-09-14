@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Jacob Collier](https://i.scdn.co/image/98b562e83bb688e788777c0c1fbdc09e44a36059)|![Julien Baker](https://i.scdn.co/image/d20c311a41fcb07a1c2d3775383802e71aa40c03)|![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![CHVRCHES](https://i.scdn.co/image/a5b058c5287ade15994f668a46f5d7f782dae97e)|![Bully](https://i.scdn.co/image/3b3526ca6fab7ddc7dd63222237dfb061e68264c)|
+  |![Oso Oso](https://i.scdn.co/image/07b3ce678f7ff5af1e25276cae9d7404bc0cd280)|![Jacob Collier](https://i.scdn.co/image/98b562e83bb688e788777c0c1fbdc09e44a36059)|![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Julien Baker](https://i.scdn.co/image/d20c311a41fcb07a1c2d3775383802e71aa40c03)|![CHVRCHES](https://i.scdn.co/image/a5b058c5287ade15994f668a46f5d7f782dae97e)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w)|[Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ)|
+  |[Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD)|[Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w)|
 <!-- end artists -->
