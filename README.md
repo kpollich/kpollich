@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Oso Oso](https://i.scdn.co/image/07b3ce678f7ff5af1e25276cae9d7404bc0cd280)|![Into It. Over It.](https://i.scdn.co/image/d0333091478bfc1610647a3739a74a75e499487d)|![Carly Rae Jepsen](https://i.scdn.co/image/75bb29e9852e14d6e8495950a7d20b7715a919c5)|![The Strokes](https://i.scdn.co/image/fd30f379cdc1f962c04b1775fdabf1b2e0ea085f)|
+  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Oso Oso](https://i.scdn.co/image/07b3ce678f7ff5af1e25276cae9d7404bc0cd280)|![Into It. Over It.](https://i.scdn.co/image/d0333091478bfc1610647a3739a74a75e499487d)|![Carly Rae Jepsen](https://i.scdn.co/image/75bb29e9852e14d6e8495950a7d20b7715a919c5)|![Jeff Rosenstock](https://i.scdn.co/image/06c1f59834180aa08d748e5e6e8d2190cf3bd505)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD)|[Into It. Over It.](https://open.spotify.com/artist/1ecdmsD235x2zHCKfdL3cF)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V)|
+  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD)|[Into It. Over It.](https://open.spotify.com/artist/1ecdmsD235x2zHCKfdL3cF)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6)|
 <!-- end artists -->
