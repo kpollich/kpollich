@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![In Love With a Ghost](https://i.scdn.co/image/9f708e271d8aa32ea043e53281c27681c4273bf6)|![The Midnight](https://i.scdn.co/image/aef4c8f3992a5ddb727bd0468854d7e1047a8851)|![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Bon Iver](https://i.scdn.co/image/9258bf0ae0348dc7e2b1279507d2bf597c146bc4)|![Jeff Rosenstock](https://i.scdn.co/image/06c1f59834180aa08d748e5e6e8d2190cf3bd505)|
+  |![In Love With a Ghost](https://i.scdn.co/image/9f708e271d8aa32ea043e53281c27681c4273bf6)|![The Midnight](https://i.scdn.co/image/aef4c8f3992a5ddb727bd0468854d7e1047a8851)|![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Bon Iver](https://i.scdn.co/image/9258bf0ae0348dc7e2b1279507d2bf597c146bc4)|![Jacob Collier](https://i.scdn.co/image/98b562e83bb688e788777c0c1fbdc09e44a36059)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O)|[The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ)|[Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6)|
+  |[In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O)|[The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ)|[Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD)|
 <!-- end artists -->
