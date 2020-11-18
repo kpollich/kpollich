@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Intervals](https://i.scdn.co/image/91ae86d5e7098fc8c291daed8c90b225aab30155)|![Julien Baker](https://i.scdn.co/image/823382f2fa75050b8e7e591accdc66bc4f6a32fd)|![Plini](https://i.scdn.co/image/835ff128ddd8d8f29e07048ff191ca0b0ef685b3)|![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![100 gecs](https://i.scdn.co/image/11e4a30c0e6b8cd1524181584e958805e9bc1c4d)|
+  |![Intervals](https://i.scdn.co/image/91ae86d5e7098fc8c291daed8c90b225aab30155)|![Julien Baker](https://i.scdn.co/image/823382f2fa75050b8e7e591accdc66bc4f6a32fd)|![100 gecs](https://i.scdn.co/image/11e4a30c0e6b8cd1524181584e958805e9bc1c4d)|![Plini](https://i.scdn.co/image/835ff128ddd8d8f29e07048ff191ca0b0ef685b3)|![Carly Rae Jepsen](https://i.scdn.co/image/75bb29e9852e14d6e8495950a7d20b7715a919c5)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3)|
+  |[Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3)|[Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|
 <!-- end artists -->
