@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Intervals](https://i.scdn.co/image/91ae86d5e7098fc8c291daed8c90b225aab30155)|![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![Carly Rae Jepsen](https://i.scdn.co/image/75bb29e9852e14d6e8495950a7d20b7715a919c5)|![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![100 gecs](https://i.scdn.co/image/11e4a30c0e6b8cd1524181584e958805e9bc1c4d)|
+  |![Intervals](https://i.scdn.co/image/91ae86d5e7098fc8c291daed8c90b225aab30155)|![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![Carly Rae Jepsen](https://i.scdn.co/image/75bb29e9852e14d6e8495950a7d20b7715a919c5)|![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Soccer Mommy](https://i.scdn.co/image/9324cde19ea8868622ce1ac256849874b4deb5bc)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3)|
+  |[Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q)|
 <!-- end artists -->
