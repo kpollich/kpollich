@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Plini](https://i.scdn.co/image/835ff128ddd8d8f29e07048ff191ca0b0ef685b3)|![Intervals](https://i.scdn.co/image/91ae86d5e7098fc8c291daed8c90b225aab30155)|![Waxahatchee](https://i.scdn.co/image/373dbf846d126d506ed7855858495e156225fb12)|![Charli XCX](https://i.scdn.co/image/a6d36a58631ff8163f2cff6eb1d75b8d3cc2005b)|![Covet](https://i.scdn.co/image/0648b3f706778533872aed129bedbdccb1cd60ff)|
+  |![Waxahatchee](https://i.scdn.co/image/373dbf846d126d506ed7855858495e156225fb12)|![Plini](https://i.scdn.co/image/835ff128ddd8d8f29e07048ff191ca0b0ef685b3)|![Intervals](https://i.scdn.co/image/91ae86d5e7098fc8c291daed8c90b225aab30155)|![Charli XCX](https://i.scdn.co/image/a6d36a58631ff8163f2cff6eb1d75b8d3cc2005b)|![Covet](https://i.scdn.co/image/0648b3f706778533872aed129bedbdccb1cd60ff)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic)|[Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl)|[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5)|[Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV)|
+  |[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic)|[Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl)|[Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5)|[Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV)|
 <!-- end artists -->
