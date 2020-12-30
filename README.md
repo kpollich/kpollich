@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Charli XCX](https://i.scdn.co/image/a6d36a58631ff8163f2cff6eb1d75b8d3cc2005b)|![Waxahatchee](https://i.scdn.co/image/373dbf846d126d506ed7855858495e156225fb12)|![Intervals](https://i.scdn.co/image/91ae86d5e7098fc8c291daed8c90b225aab30155)|![Covet](https://i.scdn.co/image/0648b3f706778533872aed129bedbdccb1cd60ff)|![The Frights](https://i.scdn.co/image/b2b8fa93fe1adec4010a4e14228240537b9e56f2)|
+  |![Waxahatchee](https://i.scdn.co/image/373dbf846d126d506ed7855858495e156225fb12)|![Charli XCX](https://i.scdn.co/image/a6d36a58631ff8163f2cff6eb1d75b8d3cc2005b)|![The Frights](https://i.scdn.co/image/b2b8fa93fe1adec4010a4e14228240537b9e56f2)|![Polyphia](https://i.scdn.co/image/19064b362422abad8f6db31878fa1d740d91e969)|![Intervals](https://i.scdn.co/image/91ae86d5e7098fc8c291daed8c90b225aab30155)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5)|[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl)|[Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV)|[The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX)|
+  |[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5)|[The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX)|[Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)|[Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl)|
 <!-- end artists -->
