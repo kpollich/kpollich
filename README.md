@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![The Replacements](https://i.scdn.co/image/7bbcc5b3c7052356202f17ddebadbabaea3acea2)|![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![Polyphia](https://i.scdn.co/image/19064b362422abad8f6db31878fa1d740d91e969)|![Waxahatchee](https://i.scdn.co/image/373dbf846d126d506ed7855858495e156225fb12)|![Julien Baker](https://i.scdn.co/image/0da664a93e345270966908fbb986dbde6ea4e727)|
+  |![The Replacements](https://i.scdn.co/image/7bbcc5b3c7052356202f17ddebadbabaea3acea2)|![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![Polyphia](https://i.scdn.co/image/19064b362422abad8f6db31878fa1d740d91e969)|![Waxahatchee](https://i.scdn.co/image/373dbf846d126d506ed7855858495e156225fb12)|![Adrianne Lenker](https://i.scdn.co/image/559046511b221fb6127d433a0cdb67f4ba52f6f9)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)|[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|
+  |[The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)|[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY)|
 <!-- end artists -->
