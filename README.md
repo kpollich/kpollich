@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Intervals](https://i.scdn.co/image/91ae86d5e7098fc8c291daed8c90b225aab30155)|![Adrianne Lenker](https://i.scdn.co/image/559046511b221fb6127d433a0cdb67f4ba52f6f9)|![Julien Baker](https://i.scdn.co/image/0da664a93e345270966908fbb986dbde6ea4e727)|![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![Chon](https://i.scdn.co/image/36fe503689eac20413afcef80d331858d5a17bf9)|
+  |![Intervals](https://i.scdn.co/image/91ae86d5e7098fc8c291daed8c90b225aab30155)|![Julien Baker](https://i.scdn.co/image/0da664a93e345270966908fbb986dbde6ea4e727)|![Adrianne Lenker](https://i.scdn.co/image/559046511b221fb6127d433a0cdb67f4ba52f6f9)|![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![Chon](https://i.scdn.co/image/36fe503689eac20413afcef80d331858d5a17bf9)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl)|[Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Chon](https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0)|
+  |[Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Chon](https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0)|
 <!-- end artists -->
