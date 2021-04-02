@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Intervals](https://i.scdn.co/image/91ae86d5e7098fc8c291daed8c90b225aab30155)|![Dua Lipa](https://i.scdn.co/image/12c917fb893e9c2c37b37f093b30c024e7a76dd5)|![Polyphia](https://i.scdn.co/image/19064b362422abad8f6db31878fa1d740d91e969)|![Adrianne Lenker](https://i.scdn.co/image/559046511b221fb6127d433a0cdb67f4ba52f6f9)|![Julien Baker](https://i.scdn.co/image/0da664a93e345270966908fbb986dbde6ea4e727)|
+  |![Dua Lipa](https://i.scdn.co/image/12c917fb893e9c2c37b37f093b30c024e7a76dd5)|![Polyphia](https://i.scdn.co/image/19064b362422abad8f6db31878fa1d740d91e969)|![Intervals](https://i.scdn.co/image/91ae86d5e7098fc8c291daed8c90b225aab30155)|![Julien Baker](https://i.scdn.co/image/0da664a93e345270966908fbb986dbde6ea4e727)|![Kupla](https://i.scdn.co/image/0652aa70b2dbd2287ffb1791667666d23ad6c744)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl)|[Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we)|[Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)|[Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|
+  |[Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we)|[Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)|[Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35)|
 <!-- end artists -->
