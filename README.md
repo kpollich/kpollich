@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![The Strokes](https://i.scdn.co/image/ab6761610000f17864d74f5985cb66b2f7b60e93)|![Dua Lipa](https://i.scdn.co/image/12c917fb893e9c2c37b37f093b30c024e7a76dd5)|![Carly Rae Jepsen](https://i.scdn.co/image/75bb29e9852e14d6e8495950a7d20b7715a919c5)|![Bon Iver](https://i.scdn.co/image/9258bf0ae0348dc7e2b1279507d2bf597c146bc4)|![Bloc Party](https://i.scdn.co/image/8800dcddbf66f2125de5c041712ad68d52f1cd6f)|
+  |![The Strokes](https://i.scdn.co/image/ab6761610000f17864d74f5985cb66b2f7b60e93)|![Dua Lipa](https://i.scdn.co/image/12c917fb893e9c2c37b37f093b30c024e7a76dd5)|![Polyphia](https://i.scdn.co/image/19064b362422abad8f6db31878fa1d740d91e969)|![Carly Rae Jepsen](https://i.scdn.co/image/75bb29e9852e14d6e8495950a7d20b7715a919c5)|![Bon Iver](https://i.scdn.co/image/9258bf0ae0348dc7e2b1279507d2bf597c146bc4)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V)|[Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ)|[Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ)|
+  |[The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V)|[Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we)|[Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ)|
 <!-- end artists -->
