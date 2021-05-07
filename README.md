@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Claud](https://i.scdn.co/image/167451fec85f6dba0583af4890a2feb5652b16f5)|![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Jeff Rosenstock](https://i.scdn.co/image/06c1f59834180aa08d748e5e6e8d2190cf3bd505)|![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![Joyce Manor](https://i.scdn.co/image/1bc978b9ba1b4b32acf2df416ae6a74cfbbc5f5f)|
+  |![Claud](https://i.scdn.co/image/167451fec85f6dba0583af4890a2feb5652b16f5)|![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Jeff Rosenstock](https://i.scdn.co/image/06c1f59834180aa08d748e5e6e8d2190cf3bd505)|![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![Waxahatchee](https://i.scdn.co/image/373dbf846d126d506ed7855858495e156225fb12)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN)|
+  |[Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|
 <!-- end artists -->
