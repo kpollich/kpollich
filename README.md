@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![Modern Baseball](https://i.scdn.co/image/665708b4c7e55923db695306c661a667cded1cff)|![Intervals](https://i.scdn.co/image/91ae86d5e7098fc8c291daed8c90b225aab30155)|![Chon](https://i.scdn.co/image/36fe503689eac20413afcef80d331858d5a17bf9)|
+  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Pinegrove](https://i.scdn.co/image/cbed180a43a152df83d00d04bec789ca4c62ea7c)|![Intervals](https://i.scdn.co/image/91ae86d5e7098fc8c291daed8c90b225aab30155)|![Covet](https://i.scdn.co/image/0648b3f706778533872aed129bedbdccb1cd60ff)|![Modern Baseball](https://i.scdn.co/image/665708b4c7e55923db695306c661a667cded1cff)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8)|[Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl)|[Chon](https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0)|
+  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl)|[Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV)|[Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8)|
 <!-- end artists -->
