@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Hot Mulligan](https://i.scdn.co/image/ab6761610000f178ee0afe7cc83d3700ef6200b9)|![HAIM](https://i.scdn.co/image/3e312ec2e821edab6dfe9183f145c85edd1309eb)|![CHVRCHES](https://i.scdn.co/image/ab6761610000f178ea72be78f2a71616661b982e)|![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Modern Baseball](https://i.scdn.co/image/665708b4c7e55923db695306c661a667cded1cff)|
+  |![CHVRCHES](https://i.scdn.co/image/ab6761610000f178ea72be78f2a71616661b982e)|![Hot Mulligan](https://i.scdn.co/image/ab6761610000f178ee0afe7cc83d3700ef6200b9)|![HAIM](https://i.scdn.co/image/3e312ec2e821edab6dfe9183f145c85edd1309eb)|![The Midnight](https://i.scdn.co/image/aef4c8f3992a5ddb727bd0468854d7e1047a8851)|![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI)|[HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE)|[CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8)|
+  |[CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w)|[Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI)|[HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE)|[The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|
 <!-- end artists -->
