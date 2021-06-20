@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![HAIM](https://i.scdn.co/image/3e312ec2e821edab6dfe9183f145c85edd1309eb)|![CHVRCHES](https://i.scdn.co/image/ab6761610000f178ea72be78f2a71616661b982e)|![The Midnight](https://i.scdn.co/image/aef4c8f3992a5ddb727bd0468854d7e1047a8851)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178c6edcb6e244bd2842ea81e4b)|![Casiio](https://i.scdn.co/image/ae03609358f79d22d795d5e8a20b6944e5a25dc4)|
+  |![HAIM](https://i.scdn.co/image/3e312ec2e821edab6dfe9183f145c85edd1309eb)|![CHVRCHES](https://i.scdn.co/image/ab6761610000f178ea72be78f2a71616661b982e)|![The Midnight](https://i.scdn.co/image/aef4c8f3992a5ddb727bd0468854d7e1047a8851)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178c6edcb6e244bd2842ea81e4b)|![Bo Burnham](https://i.scdn.co/image/ab6761610000f17830d9a4acdf8cd3e8c0ad39ab)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE)|[CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w)|[The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|[Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a)|
+  |[HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE)|[CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w)|[The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|[Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo)|
 <!-- end artists -->
