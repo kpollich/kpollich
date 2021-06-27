@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![HAIM](https://i.scdn.co/image/3e312ec2e821edab6dfe9183f145c85edd1309eb)|![CHVRCHES](https://i.scdn.co/image/ab6761610000f178ea72be78f2a71616661b982e)|![Polyphia](https://i.scdn.co/image/19064b362422abad8f6db31878fa1d740d91e969)|![The Midnight](https://i.scdn.co/image/ab6761610000f178767aa54ea96b135c06652d96)|
+  |![Phoebe Bridgers](https://i.scdn.co/image/3b6a427f0c54c0d116c433462ae1dd48474643d0)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178c6edcb6e244bd2842ea81e4b)|![HAIM](https://i.scdn.co/image/3e312ec2e821edab6dfe9183f145c85edd1309eb)|![CHVRCHES](https://i.scdn.co/image/ab6761610000f178ea72be78f2a71616661b982e)|![Polyphia](https://i.scdn.co/image/19064b362422abad8f6db31878fa1d740d91e969)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE)|[CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w)|[Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)|[The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw)|
+  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|[HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE)|[CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w)|[Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)|
 <!-- end artists -->
