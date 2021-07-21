@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178c6edcb6e244bd2842ea81e4b)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![Polyphia](https://i.scdn.co/image/ab6761610000f17819c117018e7c22d251b2213e)|![Really From](https://i.scdn.co/image/ab6761610000f178c5ac53ea40c32472ed8c862a)|![Julien Baker](https://i.scdn.co/image/ab6761610000f17818d2e50502f980f076053a1c)|
+  |![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178c6edcb6e244bd2842ea81e4b)|![Polyphia](https://i.scdn.co/image/ab6761610000f17819c117018e7c22d251b2213e)|![Really From](https://i.scdn.co/image/ab6761610000f178c5ac53ea40c32472ed8c862a)|![Faye Webster](https://i.scdn.co/image/ab6761610000f178a2f5c7ada7dcb46bb7454372)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)|[Really From](https://open.spotify.com/artist/1qTmg9Vib3GHabe1ygHW9y)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|
+  |[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|[Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)|[Really From](https://open.spotify.com/artist/1qTmg9Vib3GHabe1ygHW9y)|[Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|
 <!-- end artists -->
