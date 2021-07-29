@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![fox capture plan](https://i.scdn.co/image/ab6761610000f178233caac0b66e14a5326dfc99)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178c6edcb6e244bd2842ea81e4b)|![Faye Webster](https://i.scdn.co/image/ab6761610000f178a2f5c7ada7dcb46bb7454372)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![Polyphia](https://i.scdn.co/image/ab6761610000f17819c117018e7c22d251b2213e)|
+  |![fox capture plan](https://i.scdn.co/image/ab6761610000f178233caac0b66e14a5326dfc99)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178c6edcb6e244bd2842ea81e4b)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![Polyphia](https://i.scdn.co/image/ab6761610000f17819c117018e7c22d251b2213e)|![Animals As Leaders](https://i.scdn.co/image/ab6761610000f178046de4484e6a046d0c3ef55f)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|[Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)|
+  |[fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ)|[Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8)|
 <!-- end artists -->
