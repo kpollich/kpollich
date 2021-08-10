@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![fox capture plan](https://i.scdn.co/image/ab6761610000f178233caac0b66e14a5326dfc99)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178c6edcb6e244bd2842ea81e4b)|![Japanese Breakfast](https://i.scdn.co/image/ab6761610000f1783a3fed0c7aa2276bedccc7fe)|![Yasumu](https://i.scdn.co/image/ab6761610000f1782b9dabdc1b6db11af940df01)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|
+  |![fox capture plan](https://i.scdn.co/image/ab6761610000f178233caac0b66e14a5326dfc99)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178c6edcb6e244bd2842ea81e4b)|![Yasumu](https://i.scdn.co/image/ab6761610000f1782b9dabdc1b6db11af940df01)|![Loafy Building](https://i.scdn.co/image/ab6761610000f178c6c12b02b2d78e317273afbb)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|[Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw)|[Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|
+  |[fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|[Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM)|[Loafy Building](https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|
 <!-- end artists -->
