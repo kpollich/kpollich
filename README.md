@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![fox capture plan](https://i.scdn.co/image/ab6761610000f178233caac0b66e14a5326dfc99)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178c6edcb6e244bd2842ea81e4b)|![Yasumu](https://i.scdn.co/image/ab6761610000f1782b9dabdc1b6db11af940df01)|![softy](https://i.scdn.co/image/ab6761610000f1783ed26cd944be61cf5628f157)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|
+  |![fox capture plan](https://i.scdn.co/image/ab6761610000f178233caac0b66e14a5326dfc99)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178c6edcb6e244bd2842ea81e4b)|![Intervals](https://i.scdn.co/image/ab6761610000f17837ab27bc31a4f60710f4512d)|![Yasumu](https://i.scdn.co/image/ab6761610000f1782b9dabdc1b6db11af940df01)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|[Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM)|[softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|
+  |[fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|[Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl)|[Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM)|
 <!-- end artists -->
