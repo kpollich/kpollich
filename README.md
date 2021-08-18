@@ -12,7 +12,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![fox capture plan](https://i.scdn.co/image/ab6761610000f178233caac0b66e14a5326dfc99)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178c6edcb6e244bd2842ea81e4b)|![Julien Baker](https://i.scdn.co/image/ab6761610000f17818d2e50502f980f076053a1c)|![Jason Isbell and the 400 Unit](https://i.scdn.co/image/ab6761610000f178d05fe60d075df45f23fcbdf2)|
+  |![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![fox capture plan](https://i.scdn.co/image/ab6761610000f178233caac0b66e14a5326dfc99)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178c6edcb6e244bd2842ea81e4b)|![Julien Baker](https://i.scdn.co/image/ab6761610000f17818d2e50502f980f076053a1c)|![Hot Mulligan](https://i.scdn.co/image/ab6761610000f178ee0afe7cc83d3700ef6200b9)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf)|
+  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI)|
 <!-- end artists -->
