@@ -1,4 +1,7 @@
+<img src="https://user-images.githubusercontent.com/6766512/135288438-ea1a76ef-ac5f-4654-a3fa-1027d08ee3fb.gif" alt="Animated cityscape GIF" />
+
 # Hey there
+
 
 I'm Kyle Pollich, a full-stack engineer from Lancaster, Pennsylvania. I love web technology and solving challenging problems.
 I work at [Elastic](https://www.elastic.co/) as a Senior JavaScript Engineer on [Fleet](https://www.elastic.co/guide/en/fleet/current/fleet-overview.html).
