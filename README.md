@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/6766512/135288438-ea1a76ef-ac5f-4654-a3fa-1027d08ee3fb.gif" alt="Animated cityscape GIF" />
-
 # Hey there
 
 
