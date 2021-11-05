@@ -23,6 +23,7 @@ jobs:
     - run: |
         git config user.name github-actions
         git config user.email github-actions@github.com
+        git pull
         git diff --quiet && git diff --staged --quiet || git commit -am '(action) update recent artists'
         git push
     env:
