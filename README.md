@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Snail Mail](https://i.scdn.co/image/ab6761610000f178d17078227246fc97957c7108)|![Taylor Swift](https://i.scdn.co/image/ab6761610000f1789e3acf1eaf3b8846e836f441)|![CHVRCHES](https://i.scdn.co/image/ab6761610000f178ea72be78f2a71616661b982e)|![The Midnight](https://i.scdn.co/image/ab6761610000f178767aa54ea96b135c06652d96)|![Bruno Mars](https://i.scdn.co/image/ab6761610000f178c36dd9eb55fb0db4911f25dd)|
+  |![Snail Mail](https://i.scdn.co/image/ab6761610000f178d17078227246fc97957c7108)|![Taylor Swift](https://i.scdn.co/image/ab6761610000f1789e3acf1eaf3b8846e836f441)|![Bruno Mars](https://i.scdn.co/image/ab6761610000f178c36dd9eb55fb0db4911f25dd)|![The Midnight](https://i.scdn.co/image/ab6761610000f178767aa54ea96b135c06652d96)|![CHVRCHES](https://i.scdn.co/image/ab6761610000f178ea72be78f2a71616661b982e)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe)|[Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02)|[CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w)|[The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw)|[Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C)|
+  |[Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe)|[Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02)|[Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C)|[The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw)|[CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w)|
 <!-- end artists -->
