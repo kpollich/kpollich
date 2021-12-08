@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![HAIM](https://i.scdn.co/image/ab6761610000f178a688abfbbed1037befa47232)|![Taylor Swift](https://i.scdn.co/image/ab6761610000f1789e3acf1eaf3b8846e836f441)|![Turnstile](https://i.scdn.co/image/ab6761610000f178634d95df40053f9e6d9506d8)|![Charli XCX](https://i.scdn.co/image/ab6761610000f178576cb43281160e345f728b71)|![Bruno Mars](https://i.scdn.co/image/ab6761610000f178c36dd9eb55fb0db4911f25dd)|
+  |![HAIM](https://i.scdn.co/image/ab6761610000f178a688abfbbed1037befa47232)|![Taylor Swift](https://i.scdn.co/image/ab6761610000f1789e3acf1eaf3b8846e836f441)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![Turnstile](https://i.scdn.co/image/ab6761610000f178634d95df40053f9e6d9506d8)|![Charli XCX](https://i.scdn.co/image/ab6761610000f178576cb43281160e345f728b71)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE)|[Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02)|[Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x)|[Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5)|[Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C)|
+  |[HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE)|[Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x)|[Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5)|
 <!-- end artists -->
