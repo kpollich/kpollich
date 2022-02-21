@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Pinegrove](https://i.scdn.co/image/ab6761610000f17833dca482f170d638dde2cf30)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f17871fed7c1f401da1662f209cb)|![HM Surf](https://i.scdn.co/image/ab6761610000f178c1105b865f1018cfc7df79d7)|![softy](https://i.scdn.co/image/ab6761610000f1783ed26cd944be61cf5628f157)|![Pet Symmetry](https://i.scdn.co/image/ab6761610000f17866bd85fdacddfbe6a00881db)|
+  |![Pinegrove](https://i.scdn.co/image/ab6761610000f17833dca482f170d638dde2cf30)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f17871fed7c1f401da1662f209cb)|![softy](https://i.scdn.co/image/ab6761610000f1783ed26cd944be61cf5628f157)|![HM Surf](https://i.scdn.co/image/ab6761610000f178c1105b865f1018cfc7df79d7)|![Pet Symmetry](https://i.scdn.co/image/ab6761610000f17866bd85fdacddfbe6a00881db)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB)|[softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB)|[Pet Symmetry](https://open.spotify.com/artist/25o7TtaXwjIHjQnqXH670G)|
+  |[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB)|[HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB)|[Pet Symmetry](https://open.spotify.com/artist/25o7TtaXwjIHjQnqXH670G)|
 <!-- end artists -->
