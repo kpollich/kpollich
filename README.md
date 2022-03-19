@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![HAIM](https://i.scdn.co/image/ab6761610000f178a688abfbbed1037befa47232)|![Purrple Cat](https://i.scdn.co/image/ab6761610000f1786cd75d73b76d8c3d14fee48a)|![Sleepermane](https://i.scdn.co/image/ab6761610000f178a2de48785baf8d84f64cf633)|![Plini](https://i.scdn.co/image/ab6761610000f1787db8f5ef63701ec561a2109c)|
+  |![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![HAIM](https://i.scdn.co/image/ab6761610000f178a688abfbbed1037befa47232)|![Purrple Cat](https://i.scdn.co/image/ab6761610000f1786cd75d73b76d8c3d14fee48a)|![Charli XCX](https://i.scdn.co/image/ab6761610000f178576cb43281160e345f728b71)|![Plini](https://i.scdn.co/image/ab6761610000f1787db8f5ef63701ec561a2109c)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE)|[Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE)|[Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI)|[Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic)|
+  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE)|[Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE)|[Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5)|[Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic)|
 <!-- end artists -->
