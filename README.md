@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Big Thief](https://i.scdn.co/image/ab6761610000f178b4d91cdb7bae4fec272f7981)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![Plini](https://i.scdn.co/image/ab6761610000f1787db8f5ef63701ec561a2109c)|![Ariana Grande](https://i.scdn.co/image/ab6761610000f178cdce7620dc940db079bf4952)|![Charli XCX](https://i.scdn.co/image/ab6761610000f178576cb43281160e345f728b71)|
+  |![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![Big Thief](https://i.scdn.co/image/ab6761610000f178b4d91cdb7bae4fec272f7981)|![Plini](https://i.scdn.co/image/ab6761610000f1787db8f5ef63701ec561a2109c)|![Ariana Grande](https://i.scdn.co/image/ab6761610000f178cdce7620dc940db079bf4952)|![PUP](https://i.scdn.co/image/ab6761610000f1783c01e2c45dcbdca5a953b469)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic)|[Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR)|[Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5)|
+  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ)|[Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic)|[Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR)|[PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN)|
 <!-- end artists -->
