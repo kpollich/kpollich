@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Joyce Manor](https://i.scdn.co/image/ab6761610000f178b3f2a370b7c0ab22e199217c)|![The Menzingers](https://i.scdn.co/image/ab6761610000f178498bbee152e9598c134823a7)|![Faye Webster](https://i.scdn.co/image/ab6761610000f178c7c02985a56960f324040b07)|![Bo Burnham](https://i.scdn.co/image/ab6761610000f17830d9a4acdf8cd3e8c0ad39ab)|![Mondo Loops](https://i.scdn.co/image/ab6761610000f1786aae04735317de43379b8ebe)|
+  |![Joyce Manor](https://i.scdn.co/image/ab6761610000f178b3f2a370b7c0ab22e199217c)|![Faye Webster](https://i.scdn.co/image/ab6761610000f178c7c02985a56960f324040b07)|![Bo Burnham](https://i.scdn.co/image/ab6761610000f17830d9a4acdf8cd3e8c0ad39ab)|![Bcalm](https://i.scdn.co/image/ab6761610000f178f1d46a9384319461d4707406)|![Jhove](https://i.scdn.co/image/ab6761610000f1789454f4c7cf04da603ee868d4)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN)|[The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ)|[Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j)|[Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo)|[Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK)|
+  |[Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN)|[Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j)|[Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo)|[Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP)|[Jhove](https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA)|
 <!-- end artists -->
