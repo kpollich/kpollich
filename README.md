@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![MUNA](https://i.scdn.co/image/ab6761610000f178eff80f0e9a1932555d15cd74)|![Hot Mulligan](https://i.scdn.co/image/ab6761610000f178ba1ce18b6a63e392b4d66e9e)|![Kyle Dixon & Michael Stein](https://i.scdn.co/image/ab6761610000f17888f71e301f3b88aa37dc4c07)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f1785af2a316744be4d785d5d0c1)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178312e950a378c56701bd2584c)|
+  |![Hot Mulligan](https://i.scdn.co/image/ab6761610000f178ba1ce18b6a63e392b4d66e9e)|![MUNA](https://i.scdn.co/image/ab6761610000f178eff80f0e9a1932555d15cd74)|![Kyle Dixon & Michael Stein](https://i.scdn.co/image/ab6761610000f17888f71e301f3b88aa37dc4c07)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f1785af2a316744be4d785d5d0c1)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178312e950a378c56701bd2584c)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn)|[Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI)|[Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|
+  |[Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI)|[MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn)|[Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|
 <!-- end artists -->
