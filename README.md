@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Bon Iver](https://i.scdn.co/image/ab6761610000f17867be065df01f37a3880216be)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![Hot Mulligan](https://i.scdn.co/image/ab6761610000f17868b38733c6556293df8687a1)|![Julien Baker](https://i.scdn.co/image/ab6761610000f17809239cf62ab2187c023fcee4)|![MUNA](https://i.scdn.co/image/ab6761610000f178eff80f0e9a1932555d15cd74)|
+  |![Bon Iver](https://i.scdn.co/image/ab6761610000f17867be065df01f37a3880216be)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![Hot Mulligan](https://i.scdn.co/image/ab6761610000f17868b38733c6556293df8687a1)|![MUNA](https://i.scdn.co/image/ab6761610000f178eff80f0e9a1932555d15cd74)|![Caroline Polachek](https://i.scdn.co/image/ab6761610000f1788e4513e1644cfb88951034b5)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn)|
+  |[Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI)|[MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn)|[Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a)|
 <!-- end artists -->
