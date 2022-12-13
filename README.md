@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f178358577f183465ae7698a53a7)|![Julien Baker](https://i.scdn.co/image/ab6761610000f17809239cf62ab2187c023fcee4)|![Counting Crows](https://i.scdn.co/image/ab6761610000f178a6f88c86470fd6350f4a5535)|
+  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f178358577f183465ae7698a53a7)|![Julien Baker](https://i.scdn.co/image/ab6761610000f17809239cf62ab2187c023fcee4)|![Black Country, New Road](https://i.scdn.co/image/ab6761610000f178aebcf58177b9739feadb00b9)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC)|
+  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN)|
 <!-- end artists -->
