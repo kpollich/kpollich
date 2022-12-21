@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![Julien Baker](https://i.scdn.co/image/ab6761610000f17809239cf62ab2187c023fcee4)|![Black Country, New Road](https://i.scdn.co/image/ab6761610000f178aebcf58177b9739feadb00b9)|![MUNA](https://i.scdn.co/image/ab6761610000f178eff80f0e9a1932555d15cd74)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178312e950a378c56701bd2584c)|
+  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![MUNA](https://i.scdn.co/image/ab6761610000f178eff80f0e9a1932555d15cd74)|![Julien Baker](https://i.scdn.co/image/ab6761610000f17809239cf62ab2187c023fcee4)|![Black Country, New Road](https://i.scdn.co/image/ab6761610000f178aebcf58177b9739feadb00b9)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f178358577f183465ae7698a53a7)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN)|[MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|
+  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|
 <!-- end artists -->
