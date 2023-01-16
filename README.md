@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![Alvvays](https://i.scdn.co/image/ab6761610000f178a24052fe3c780cb8ca6e69c6)|![Lizzy McAlpine](https://i.scdn.co/image/ab6761610000f178b10e2b618880f429a3967185)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f178358577f183465ae7698a53a7)|![MUNA](https://i.scdn.co/image/ab6761610000f178eff80f0e9a1932555d15cd74)|
+  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![Alvvays](https://i.scdn.co/image/ab6761610000f178a24052fe3c780cb8ca6e69c6)|![Soul Glo](https://i.scdn.co/image/ab6761610000f1789a277645bcc34a7b96d00add)|![Ethel Cain](https://i.scdn.co/image/ab6761610000f178d1e68fe27f0b9d187b070b56)|![Viagra Boys](https://i.scdn.co/image/ab6761610000f178f309aa1b63929627f6be0697)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt)|[Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn)|
+  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt)|[Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan)|[Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2)|[Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg)|
 <!-- end artists -->
