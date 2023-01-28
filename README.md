@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![boygenius](https://i.scdn.co/image/ab6761610000f1781a6373c01e8b86e289859f57)|![Soul Glo](https://i.scdn.co/image/ab6761610000f1789a277645bcc34a7b96d00add)|![Big Thief](https://i.scdn.co/image/ab6761610000f1781ecc55cb453871a124d224ef)|![HAIM](https://i.scdn.co/image/ab6761610000f178a688abfbbed1037befa47232)|
+  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![boygenius](https://i.scdn.co/image/ab6761610000f1781a6373c01e8b86e289859f57)|![Soul Glo](https://i.scdn.co/image/ab6761610000f1789a277645bcc34a7b96d00add)|![Big Thief](https://i.scdn.co/image/ab6761610000f1781ecc55cb453871a124d224ef)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f178358577f183465ae7698a53a7)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw)|[Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan)|[Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ)|[HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE)|
+  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw)|[Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan)|[Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|
 <!-- end artists -->
