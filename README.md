@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![boygenius](https://i.scdn.co/image/ab6761610000f1781a6373c01e8b86e289859f57)|![Soul Glo](https://i.scdn.co/image/ab6761610000f1789a277645bcc34a7b96d00add)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![The Wonder Years](https://i.scdn.co/image/ab6761610000f178b127e7ff124dd9791a245d54)|
+  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![boygenius](https://i.scdn.co/image/ab6761610000f1781a6373c01e8b86e289859f57)|![Julien Baker](https://i.scdn.co/image/ab6761610000f17809239cf62ab2187c023fcee4)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![The Wonder Years](https://i.scdn.co/image/ab6761610000f178b127e7ff124dd9791a245d54)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw)|[Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K)|
+  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K)|
 <!-- end artists -->
