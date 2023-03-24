@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![boygenius](https://i.scdn.co/image/ab6761610000f1781a6373c01e8b86e289859f57)|![Big Thief](https://i.scdn.co/image/ab6761610000f1781ecc55cb453871a124d224ef)|![ROSALÍA](https://i.scdn.co/image/ab6761610000f178d7bb678bef6d2f26110cae49)|![Soccer Mommy](https://i.scdn.co/image/ab6761610000f178082c6c29fbb05277eef63a42)|
+  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![boygenius](https://i.scdn.co/image/ab6761610000f1781a6373c01e8b86e289859f57)|![Big Thief](https://i.scdn.co/image/ab6761610000f1781ecc55cb453871a124d224ef)|![ROSALÍA](https://i.scdn.co/image/ab6761610000f178d7bb678bef6d2f26110cae49)|![100 gecs](https://i.scdn.co/image/ab6761610000f178d77a9c855001f3a9b5815bc0)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw)|[Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ)|[ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1)|[Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q)|
+  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw)|[Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ)|[ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1)|[100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3)|
 <!-- end artists -->
