@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![Two Scents](https://i.scdn.co/image/ab6761610000f1787e0255cc10a4369e9f815f66)|![Taylor Swift](https://i.scdn.co/image/ab6761610000f1785a00969a4698c3132a15fbb0)|![Lizzy McAlpine](https://i.scdn.co/image/ab6761610000f178b10e2b618880f429a3967185)|
+  |![boygenius](https://i.scdn.co/image/ab6761610000f1781a6373c01e8b86e289859f57)|![Julien Baker](https://i.scdn.co/image/ab6761610000f17809239cf62ab2187c023fcee4)|![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![100 gecs](https://i.scdn.co/image/ab6761610000f178d77a9c855001f3a9b5815bc0)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81)|[Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02)|[Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS)|
+  |[boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|
 <!-- end artists -->
