@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![boygenius](https://i.scdn.co/image/ab6761610000f1781a6373c01e8b86e289859f57)|![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![Julien Baker](https://i.scdn.co/image/ab6761610000f17809239cf62ab2187c023fcee4)|![100 gecs](https://i.scdn.co/image/ab6761610000f178d77a9c855001f3a9b5815bc0)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|
+  |![boygenius](https://i.scdn.co/image/ab6761610000f1781a6373c01e8b86e289859f57)|![Julien Baker](https://i.scdn.co/image/ab6761610000f17809239cf62ab2187c023fcee4)|![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![100 gecs](https://i.scdn.co/image/ab6761610000f178d77a9c855001f3a9b5815bc0)|![Caroline Polachek](https://i.scdn.co/image/ab6761610000f178d06f948216f34ea0298aef43)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|
+  |[boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw)|[Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3)|[Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a)|
 <!-- end artists -->
