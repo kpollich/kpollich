@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f17801f7236d8eb8ea61cdf74eed)|![The Japanese House](https://i.scdn.co/image/ab6761610000f178219ef33af431aa46dda33714)|![Caroline Polachek](https://i.scdn.co/image/ab6761610000f178d06f948216f34ea0298aef43)|![Parannoul](https://i.scdn.co/image/ab67616d0000485191771a796206ea1fe20387b5)|
+  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f17801f7236d8eb8ea61cdf74eed)|![Taylor Swift](https://i.scdn.co/image/ab6761610000f178f173136b94ae2f75f49f8b2b)|![The Japanese House](https://i.scdn.co/image/ab6761610000f178219ef33af431aa46dda33714)|![Caroline Polachek](https://i.scdn.co/image/ab6761610000f178d06f948216f34ea0298aef43)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u)|[Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a)|[Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)|
+  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02)|[The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u)|[Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a)|
 <!-- end artists -->
