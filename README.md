@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Wilco](https://i.scdn.co/image/ab6761610000f178b990b82996651d23ab4df7e8)|![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![King Gizzard & The Lizard Wizard](https://i.scdn.co/image/ab6761610000f178ae21e90221e814c50033133a)|![Billy Bragg](https://i.scdn.co/image/ab6761610000f178c23d0e19d887a9d67a77ea9b)|![Taylor Swift](https://i.scdn.co/image/ab6761610000f1786a224073987b930f99adc706)|
+  |![Wilco](https://i.scdn.co/image/ab6761610000f178b990b82996651d23ab4df7e8)|![King Gizzard & The Lizard Wizard](https://i.scdn.co/image/ab6761610000f178ae21e90221e814c50033133a)|![Billy Bragg](https://i.scdn.co/image/ab6761610000f178c23d0e19d887a9d67a77ea9b)|![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![The Replacements](https://i.scdn.co/image/7bbcc5b3c7052356202f17ddebadbabaea3acea2)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn)|[Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO)|[Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02)|
+  |[Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM)|[King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn)|[Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3)|
 <!-- end artists -->
