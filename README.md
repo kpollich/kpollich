@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepollich.com/
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![The Decemberists](https://i.scdn.co/image/ab6761610000f178ad12e7af41c3a1903d1273b8)|![Zach Bryan](https://i.scdn.co/image/ab6761610000f1784fd54df35bfcfa0fc9fc2da7)|![Joyce Manor](https://i.scdn.co/image/ab6761610000f178b3f2a370b7c0ab22e199217c)|![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![Counting Crows](https://i.scdn.co/image/ab6761610000f178a6f88c86470fd6350f4a5535)|
+  |![The Decemberists](https://i.scdn.co/image/ab6761610000f178ad12e7af41c3a1903d1273b8)|![Zach Bryan](https://i.scdn.co/image/ab6761610000f1784fd54df35bfcfa0fc9fc2da7)|![Joyce Manor](https://i.scdn.co/image/ab6761610000f178b3f2a370b7c0ab22e199217c)|![boygenius](https://i.scdn.co/image/ab6761610000f1781a6373c01e8b86e289859f57)|![Counting Crows](https://i.scdn.co/image/ab6761610000f178a6f88c86470fd6350f4a5535)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2)|[Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2)|[Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC)|
+  |[The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2)|[Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2)|[Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN)|[boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw)|[Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC)|
 <!-- end artists -->
