@@ -4,7 +4,7 @@
 I'm Kyle Pollich, a software engineer from Lancaster, Pennsylvania. I love web technology and solving challenging problems.
 I work at [Elastic](https://www.elastic.co/) as a Tech Lead on [Fleet](https://www.elastic.co/guide/en/fleet/current/fleet-overview.html).
 
-For more, check out my personal site: https://kylepollich.com/
+For more, check out my personal site: https://kylepolli.ch
 
 ## What I'm listening to lately
 
