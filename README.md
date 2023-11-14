@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Sufjan Stevens](https://i.scdn.co/image/ab6761610000f178b80dd6b23c5c04d62d9aa0c6)|![Mitski](https://i.scdn.co/image/ab6761610000f1784bdb3888818637acb71c4a13)|![Hot Mulligan](https://i.scdn.co/image/ab6761610000f178b81b1d2b8043c08f659d196e)|![Sincere Engineer](https://i.scdn.co/image/ab6761610000f1782b61d1a456f8b3debef3eff0)|![Tigers Jaw](https://i.scdn.co/image/ab6761610000f17822fc79494db2b3d22e3e3637)|
+  |![Mitski](https://i.scdn.co/image/ab6761610000f1784bdb3888818637acb71c4a13)|![Sufjan Stevens](https://i.scdn.co/image/ab6761610000f178b80dd6b23c5c04d62d9aa0c6)|![Sincere Engineer](https://i.scdn.co/image/ab6761610000f1782b61d1a456f8b3debef3eff0)|![Hot Mulligan](https://i.scdn.co/image/ab6761610000f178b81b1d2b8043c08f659d196e)|![Tigers Jaw](https://i.scdn.co/image/ab6761610000f17822fc79494db2b3d22e3e3637)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c)|[Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK)|[Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI)|[Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1)|[Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8)|
+  |[Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK)|[Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c)|[Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1)|[Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI)|[Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8)|
 <!-- end artists -->
