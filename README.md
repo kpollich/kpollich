@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Bon Iver](https://i.scdn.co/image/ab6761610000f17867be065df01f37a3880216be)|![Adrianne Lenker](https://i.scdn.co/image/ab6761610000f1782b10b147cdadac49ea598af3)|![Sufjan Stevens](https://i.scdn.co/image/ab6761610000f178b80dd6b23c5c04d62d9aa0c6)|![Zach Bryan](https://i.scdn.co/image/ab6761610000f1784fd54df35bfcfa0fc9fc2da7)|![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|
+  |![Sufjan Stevens](https://i.scdn.co/image/ab6761610000f178b80dd6b23c5c04d62d9aa0c6)|![Bon Iver](https://i.scdn.co/image/ab6761610000f17867be065df01f37a3880216be)|![Adrianne Lenker](https://i.scdn.co/image/ab6761610000f17846e88446bcf8dce2537ef8ce)|![Zach Bryan](https://i.scdn.co/image/ab6761610000f1784fd54df35bfcfa0fc9fc2da7)|![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ)|[Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY)|[Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c)|[Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|
+  |[Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c)|[Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ)|[Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY)|[Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|
 <!-- end artists -->
