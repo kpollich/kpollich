@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Wednesday](https://i.scdn.co/image/ab6761610000f1786be7d750f449d0e04196e179)|![Sufjan Stevens](https://i.scdn.co/image/ab6761610000f178b80dd6b23c5c04d62d9aa0c6)|![Ratboys](https://i.scdn.co/image/ab6761610000f17804eddff1ed28df0065c09448)|![Bon Iver](https://i.scdn.co/image/ab6761610000f17867be065df01f37a3880216be)|![McKinley Dixon](https://i.scdn.co/image/ab6761610000f178e4a9b5dab09a056e59997b47)|
+  |![Ratboys](https://i.scdn.co/image/ab6761610000f17804eddff1ed28df0065c09448)|![Wednesday](https://i.scdn.co/image/ab6761610000f1786be7d750f449d0e04196e179)|![Sufjan Stevens](https://i.scdn.co/image/ab6761610000f178b80dd6b23c5c04d62d9aa0c6)|![Bon Iver](https://i.scdn.co/image/ab6761610000f17867be065df01f37a3880216be)|![McKinley Dixon](https://i.scdn.co/image/ab6761610000f178e4a9b5dab09a056e59997b47)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe)|[Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c)|[Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf)|[Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ)|[McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko)|
+  |[Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf)|[Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe)|[Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c)|[Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ)|[McKinley Dixon](https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko)|
 <!-- end artists -->
