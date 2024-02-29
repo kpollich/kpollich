@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![Jason Isbell and the 400 Unit](https://i.scdn.co/image/ab6761610000f178f3ee3b123b3fdcd415559e5a)|![The Decemberists](https://i.scdn.co/image/ab6761610000f17898bedc4e1c0b1be33ee7da6d)|![Bon Iver](https://i.scdn.co/image/ab6761610000f17867be065df01f37a3880216be)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f1788272bf414106646e0e4a89f3)|
+  |![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|![Olivia Rodrigo](https://i.scdn.co/image/ab6761610000f178e03a98785f3658f0b6461ec4)|![The Decemberists](https://i.scdn.co/image/ab6761610000f17898bedc4e1c0b1be33ee7da6d)|![Bon Iver](https://i.scdn.co/image/ab6761610000f17867be065df01f37a3880216be)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f1788272bf414106646e0e4a89f3)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf)|[The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2)|[Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|
+  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG)|[The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2)|[Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|
 <!-- end artists -->
