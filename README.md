@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Adrianne Lenker](https://i.scdn.co/image/ab6761610000f17846e88446bcf8dce2537ef8ce)|![Waxahatchee](https://i.scdn.co/image/ab6761610000f178909fb4e2a0d9c0f880174263)|![Lizzy McAlpine](https://i.scdn.co/image/ab6761610000f178b7e3d5ad48cc67f32a3a0930)|![Chappell Roan](https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee)|![Joyce Manor](https://i.scdn.co/image/ab6761610000f178b3f2a370b7c0ab22e199217c)|
+  |![Chappell Roan](https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee)|![Adrianne Lenker](https://i.scdn.co/image/ab6761610000f17846e88446bcf8dce2537ef8ce)|![Lizzy McAlpine](https://i.scdn.co/image/ab6761610000f178b7e3d5ad48cc67f32a3a0930)|![Waxahatchee](https://i.scdn.co/image/ab6761610000f178909fb4e2a0d9c0f880174263)|![Joyce Manor](https://i.scdn.co/image/ab6761610000f178b3f2a370b7c0ab22e199217c)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY)|[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS)|[Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN)|[Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN)|
+  |[Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN)|[Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY)|[Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS)|[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN)|
 <!-- end artists -->
