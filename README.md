@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Maggie Rogers](https://i.scdn.co/image/ab6761610000f178621d7cddc0d2fa4d94ed1c1e)|![Chappell Roan](https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee)|![Lizzy McAlpine](https://i.scdn.co/image/ab6761610000f178b7e3d5ad48cc67f32a3a0930)|![The Lemon Twigs](https://i.scdn.co/image/ab6761610000f1788004d3184eb89db0618772ed)|![Cloud Nothings](https://i.scdn.co/image/ab6761610000f17861346617ddad2278595560e5)|
+  |![Maggie Rogers](https://i.scdn.co/image/ab6761610000f178621d7cddc0d2fa4d94ed1c1e)|![Chappell Roan](https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee)|![The Lemon Twigs](https://i.scdn.co/image/ab6761610000f1788004d3184eb89db0618772ed)|![Lizzy McAlpine](https://i.scdn.co/image/ab6761610000f178b7e3d5ad48cc67f32a3a0930)|![Cloud Nothings](https://i.scdn.co/image/ab6761610000f17861346617ddad2278595560e5)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe)|[Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN)|[Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS)|[The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T)|[Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT)|
+  |[Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe)|[Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN)|[The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T)|[Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS)|[Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT)|
 <!-- end artists -->
