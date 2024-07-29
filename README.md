@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Zach Bryan](https://i.scdn.co/image/ab6761610000f1784fd54df35bfcfa0fc9fc2da7)|![Chappell Roan](https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee)|![The Beaches](https://i.scdn.co/image/ab6761610000f178303ef8ab95298de90806e9d9)|![Clairo](https://i.scdn.co/image/ab6761610000f1784804c4a44c85afea1a72d1bd)|![The Last Dinner Party](https://i.scdn.co/image/ab6761610000f178b902c1ee47d05961cfd87b9f)|
+  |![Zach Bryan](https://i.scdn.co/image/ab6761610000f1784fd54df35bfcfa0fc9fc2da7)|![The Beaches](https://i.scdn.co/image/ab6761610000f178303ef8ab95298de90806e9d9)|![Chappell Roan](https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee)|![The Last Dinner Party](https://i.scdn.co/image/ab6761610000f178b902c1ee47d05961cfd87b9f)|![Clairo](https://i.scdn.co/image/ab6761610000f1784804c4a44c85afea1a72d1bd)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2)|[Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN)|[The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy)|[Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag)|[The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s)|
+  |[Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2)|[The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy)|[Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN)|[The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s)|[Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag)|
 <!-- end artists -->
