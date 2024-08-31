@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Chappell Roan](https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee)|![Zach Bryan](https://i.scdn.co/image/ab6761610000f1784fd54df35bfcfa0fc9fc2da7)|![MUNA](https://i.scdn.co/image/ab6761610000f1781a15779c2371bcc33acbffa7)|![Charli xcx](https://i.scdn.co/image/ab6761610000f178936885667ef44c306483c838)|![The Japanese House](https://i.scdn.co/image/ab6761610000f1788de9980dfb508eede9e2fc46)|
+  |![Chappell Roan](https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee)|![Zach Bryan](https://i.scdn.co/image/ab6761610000f1784fd54df35bfcfa0fc9fc2da7)|![MUNA](https://i.scdn.co/image/ab6761610000f1781a15779c2371bcc33acbffa7)|![The Last Dinner Party](https://i.scdn.co/image/ab6761610000f178afd7c75f1089268174116f32)|![The Japanese House](https://i.scdn.co/image/ab6761610000f1788de9980dfb508eede9e2fc46)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN)|[Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2)|[MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn)|[Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5)|[The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u)|
+  |[Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN)|[Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2)|[MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn)|[The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s)|[The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u)|
 <!-- end artists -->
