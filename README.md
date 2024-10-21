@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Charli xcx](https://i.scdn.co/image/ab6761610000f178936885667ef44c306483c838)|![Chappell Roan](https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee)|![Christian Lee Hutson](https://i.scdn.co/image/ab6761610000f17890e2e285666769d1e919abd0)|![Geordie Greep](https://i.scdn.co/image/ab6761610000f178a98f8e255ccc67f72e6275f9)|![Sabrina Carpenter](https://i.scdn.co/image/ab6761610000f178e053b8338322b9c8609ee7ae)|
+  |![Charli xcx](https://i.scdn.co/image/ab6761610000f178936885667ef44c306483c838)|![Chappell Roan](https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee)|![Christian Lee Hutson](https://i.scdn.co/image/ab6761610000f17890e2e285666769d1e919abd0)|![Sabrina Carpenter](https://i.scdn.co/image/ab6761610000f178e053b8338322b9c8609ee7ae)|![Geordie Greep](https://i.scdn.co/image/ab6761610000f178a98f8e255ccc67f72e6275f9)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5)|[Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN)|[Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3)|[Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ)|[Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B)|
+  |[Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5)|[Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN)|[Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3)|[Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B)|[Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ)|
 <!-- end artists -->
