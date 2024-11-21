@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Soccer Mommy](https://i.scdn.co/image/ab6761610000f17892a53b190e048475d6c1722e)|![Pinegrove](https://i.scdn.co/image/ab6761610000f1780089634a4e7964d250223ed6)|![Chappell Roan](https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee)|![Katie Gavin](https://i.scdn.co/image/ab6761610000f178f1fc39518ec60153ff2dad62)|![Sabrina Carpenter](https://i.scdn.co/image/ab6761610000f178e053b8338322b9c8609ee7ae)|
+  |![Soccer Mommy](https://i.scdn.co/image/ab6761610000f17892a53b190e048475d6c1722e)|![Pinegrove](https://i.scdn.co/image/ab6761610000f1780089634a4e7964d250223ed6)|![Chappell Roan](https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee)|![Katie Gavin](https://i.scdn.co/image/ab6761610000f178f1fc39518ec60153ff2dad62)|![The 1975](https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN)|[Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg)|[Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B)|
+  |[Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN)|[Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|
 <!-- end artists -->
