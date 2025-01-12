@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Magdalena Bay](https://i.scdn.co/image/ab6761610000f17864584f6175cff36d2d8c57d1)|![Waxahatchee](https://i.scdn.co/image/ab6761610000f178909fb4e2a0d9c0f880174263)|![Clairo](https://i.scdn.co/image/ab6761610000f1784804c4a44c85afea1a72d1bd)|![Chappell Roan](https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee)|![Fleet Foxes](https://i.scdn.co/image/ab6761610000f1787d2e812e63d6df77ee087b47)|
+  |![Magdalena Bay](https://i.scdn.co/image/ab6761610000f17864584f6175cff36d2d8c57d1)|![Clairo](https://i.scdn.co/image/ab6761610000f1784804c4a44c85afea1a72d1bd)|![Waxahatchee](https://i.scdn.co/image/ab6761610000f178909fb4e2a0d9c0f880174263)|![Fleet Foxes](https://i.scdn.co/image/ab6761610000f1787d2e812e63d6df77ee087b47)|![Jason Isbell](https://i.scdn.co/image/ab6761610000f1780ad790e9900e7a4dc94f6304)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ)|[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag)|[Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN)|[Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb)|
+  |[Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ)|[Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag)|[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb)|[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|
 <!-- end artists -->
