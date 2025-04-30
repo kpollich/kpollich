@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Bon Iver](https://i.scdn.co/image/ab6761610000f1781a0c1f04c95539fd55ef0ebb)|![Chappell Roan](https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee)|![Paramore](https://i.scdn.co/image/ab6761610000f178b10c34546a4ca2d7faeb8865)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178312e950a378c56701bd2584c)|![Watchhouse](https://i.scdn.co/image/ab6761610000f1789a868b30d29e0acad718e85e)|
+  |![Bon Iver](https://i.scdn.co/image/ab6761610000f1781a0c1f04c95539fd55ef0ebb)|![Chappell Roan](https://i.scdn.co/image/ab6761610000f178cde5a0d57c1b79de5fce6bee)|![Gregory Alan Isakov](https://i.scdn.co/image/ab6761610000f1784528d0f9bb51b241561a16f3)|![Paramore](https://i.scdn.co/image/ab6761610000f178b10c34546a4ca2d7faeb8865)|![Lucy Dacus](https://i.scdn.co/image/ab6761610000f178a5a55fb2f2c129da51b7676e)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ)|[Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN)|[Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|[Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP)|
+  |[Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ)|[Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN)|[Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt)|[Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF)|[Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP)|
 <!-- end artists -->
