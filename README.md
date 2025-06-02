@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Waxahatchee](https://i.scdn.co/image/ab6761610000f178909fb4e2a0d9c0f880174263)|![Wednesday](https://i.scdn.co/image/ab6761610000f1786be7d750f449d0e04196e179)|![Beach Bunny](https://i.scdn.co/image/ab6761610000f178c76f04ab8987c4fb298abb3c)|![The 1975](https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f1788272bf414106646e0e4a89f3)|
+  |![Waxahatchee](https://i.scdn.co/image/ab6761610000f178909fb4e2a0d9c0f880174263)|![Wednesday](https://i.scdn.co/image/ab6761610000f178cbf22720296d758d8b373a85)|![Beach Bunny](https://i.scdn.co/image/ab6761610000f178c76f04ab8987c4fb298abb3c)|![Charli xcx](https://i.scdn.co/image/ab6761610000f178936885667ef44c306483c838)|![The 1975](https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe)|[Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|
+  |[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe)|[Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H)|[Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|
 <!-- end artists -->
