@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Watchhouse](https://i.scdn.co/image/ab6761610000f178d4cf73dc366d37ad8c23b7d0)|![Paramore](https://i.scdn.co/image/ab6761610000f178b10c34546a4ca2d7faeb8865)|![This Is Lorelei](https://i.scdn.co/image/ab6761610000f17847a79a4b43ca5741f6f4d289)|![Gregory Alan Isakov](https://i.scdn.co/image/ab6761610000f1784528d0f9bb51b241561a16f3)|![The 1975](https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a)|
+  |![Paramore](https://i.scdn.co/image/ab6761610000f178b10c34546a4ca2d7faeb8865)|![Watchhouse](https://i.scdn.co/image/ab6761610000f178d4cf73dc366d37ad8c23b7d0)|![This Is Lorelei](https://i.scdn.co/image/ab6761610000f17847a79a4b43ca5741f6f4d289)|![Florry](https://i.scdn.co/image/ab6761610000f1783242d4d712bd868840b22e2b)|![MJ Lenderman](https://i.scdn.co/image/ab6761610000f17827fa0080c12d5330cf5562b8)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP)|[Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF)|[This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun)|[Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|
+  |[Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF)|[Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP)|[This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun)|[Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn)|[MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT)|
 <!-- end artists -->
