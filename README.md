@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Laufey](https://i.scdn.co/image/ab6761610000f17898c2527b85500f68f53084f2)|![The Beths](https://i.scdn.co/image/ab6761610000f178eb26b0d0de46b77e23675281)|![Joey Valence & Brae](https://i.scdn.co/image/ab6761610000f178a785c8353e5dfb6f47443cc4)|![Greg Freeman](https://i.scdn.co/image/ab6761610000f178e48e098f42d493f87169c599)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f1788272bf414106646e0e4a89f3)|
+  |![Laufey](https://i.scdn.co/image/ab6761610000f17898c2527b85500f68f53084f2)|![Joey Valence & Brae](https://i.scdn.co/image/ab6761610000f178a716924ea0257629b35848cc)|![Greg Freeman](https://i.scdn.co/image/ab6761610000f178e48e098f42d493f87169c599)|![Carly Rae Jepsen](https://i.scdn.co/image/ab6761610000f1788272bf414106646e0e4a89f3)|![Hot Mulligan](https://i.scdn.co/image/ab6761610000f178f39d742e60fa4e7246c133d4)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO)|[The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin)|[Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh)|[Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|
+  |[Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO)|[Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh)|[Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ)|[Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju)|[Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI)|
 <!-- end artists -->
