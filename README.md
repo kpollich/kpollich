@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Laufey](https://i.scdn.co/image/ab6761610000f17898c2527b85500f68f53084f2)|![The Beths](https://i.scdn.co/image/ab6761610000f178eb26b0d0de46b77e23675281)|![Hot Mulligan](https://i.scdn.co/image/ab6761610000f178f39d742e60fa4e7246c133d4)|![The 1975](https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a)|![Waxahatchee](https://i.scdn.co/image/ab6761610000f178909fb4e2a0d9c0f880174263)|
+  |![The Beths](https://i.scdn.co/image/ab6761610000f178eb26b0d0de46b77e23675281)|![Laufey](https://i.scdn.co/image/ab6761610000f17898c2527b85500f68f53084f2)|![Wednesday](https://i.scdn.co/image/ab6761610000f178cbf22720296d758d8b373a85)|![The 1975](https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a)|![Waxahatchee](https://i.scdn.co/image/ab6761610000f178909fb4e2a0d9c0f880174263)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO)|[The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin)|[Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|
+  |[The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin)|[Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO)|[Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|
 <!-- end artists -->
