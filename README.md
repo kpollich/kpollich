@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![The 1975](https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a)|![Charli xcx](https://i.scdn.co/image/ab6761610000f178daa727dd396963ba92dd6377)|![Jason Isbell](https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![Sydney Sprague](https://i.scdn.co/image/ab6761610000f17856c33a753c2d9362547c38ae)|
+  |![The 1975](https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a)|![Sydney Sprague](https://i.scdn.co/image/ab6761610000f17856c33a753c2d9362547c38ae)|![Jason Isbell](https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![Charli xcx](https://i.scdn.co/image/ab6761610000f178daa727dd396963ba92dd6377)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5)|[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs)|
+  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs)|[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5)|
 <!-- end artists -->
