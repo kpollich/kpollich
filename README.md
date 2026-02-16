@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Joyce Manor](https://i.scdn.co/image/ab6761610000f1785e3e73393eb63ed14ecefb2d)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b)|![Jason Isbell](https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11)|![The 1975](https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a)|![The Lemon Twigs](https://i.scdn.co/image/ab6761610000f1788004d3184eb89db0618772ed)|
+  |![Jason Isbell](https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11)|![Joyce Manor](https://i.scdn.co/image/ab6761610000f1785e3e73393eb63ed14ecefb2d)|![The 1975](https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a)|![The Lemon Twigs](https://i.scdn.co/image/ab6761610000f1788004d3184eb89db0618772ed)|![Laufey](https://i.scdn.co/image/ab6761610000f17898c2527b85500f68f53084f2)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T)|
+  |[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|[Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T)|[Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO)|
 <!-- end artists -->
