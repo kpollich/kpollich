@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Joyce Manor](https://i.scdn.co/image/ab6761610000f1785e3e73393eb63ed14ecefb2d)|![Jason Isbell](https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11)|![Ratboys](https://i.scdn.co/image/ab6761610000f17849614bfc43a4b1e4ba7cfc90)|![The 1975](https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a)|![Pinegrove](https://i.scdn.co/image/ab6761610000f1780089634a4e7964d250223ed6)|
+  |![The 1975](https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a)|![Joyce Manor](https://i.scdn.co/image/ab6761610000f1785e3e73393eb63ed14ecefb2d)|![Jason Isbell](https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11)|![Ratboys](https://i.scdn.co/image/ab6761610000f17849614bfc43a4b1e4ba7cfc90)|![Waxahatchee](https://i.scdn.co/image/ab6761610000f178bb6b88ebf5a74e636bcf09eb)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN)|[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|[Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|
+  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN)|[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|[Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf)|[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|
 <!-- end artists -->
