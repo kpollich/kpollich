@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![The 1975](https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a)|![Ratboys](https://i.scdn.co/image/ab6761610000f17849614bfc43a4b1e4ba7cfc90)|![Jason Isbell and the 400 Unit](https://i.scdn.co/image/ab6761610000f178bd5ffed84abc55085599e2b3)|![Pinegrove](https://i.scdn.co/image/ab6761610000f1780089634a4e7964d250223ed6)|![Justin Townes Earle](https://i.scdn.co/image/ab6761610000f178ab1dc2ce10e910ac96d9f2cb)|
+  |![The 1975](https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a)|![Jason Isbell and the 400 Unit](https://i.scdn.co/image/ab6761610000f178bd5ffed84abc55085599e2b3)|![Ratboys](https://i.scdn.co/image/ab6761610000f17849614bfc43a4b1e4ba7cfc90)|![Pinegrove](https://i.scdn.co/image/ab6761610000f1780089634a4e7964d250223ed6)|![Jason Isbell](https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf)|[Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq)|
+  |[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|[Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf)|[Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf)|[Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB)|[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|
 <!-- end artists -->
