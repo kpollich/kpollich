@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Charlotte Cornfield](https://i.scdn.co/image/ab6761610000f178817dc9fa6edf0c870dbf5dbc)|![Jason Isbell](https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11)|![Jason Isbell and the 400 Unit](https://i.scdn.co/image/ab6761610000f178bd5ffed84abc55085599e2b3)|![Taylor Swift](https://i.scdn.co/image/ab6761610000f178e2e8e7ff002a4afda1c7147e)|![The 1975](https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a)|
+  |![Jason Isbell](https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11)|![Charlotte Cornfield](https://i.scdn.co/image/ab6761610000f178817dc9fa6edf0c870dbf5dbc)|![Jason Isbell and the 400 Unit](https://i.scdn.co/image/ab6761610000f178bd5ffed84abc55085599e2b3)|![Taylor Swift](https://i.scdn.co/image/ab6761610000f178e2e8e7ff002a4afda1c7147e)|![The 1975](https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ)|[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|[Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf)|[Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|
+  |[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|[Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ)|[Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf)|[Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02)|[The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW)|
 <!-- end artists -->
