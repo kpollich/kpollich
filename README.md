@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Waxahatchee](https://i.scdn.co/image/ab6761610000f178bb6b88ebf5a74e636bcf09eb)|![Charlotte Cornfield](https://i.scdn.co/image/ab6761610000f178817dc9fa6edf0c870dbf5dbc)|![Jason Isbell](https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11)|![Courtney Barnett](https://i.scdn.co/image/ab6761610000f1783ed0d3cdb91f128a8d7636d0)|![This Is Lorelei](https://i.scdn.co/image/ab6761610000f1782c506c0e91ce3f2e1c179392)|
+  |![Waxahatchee](https://i.scdn.co/image/ab6761610000f178bb6b88ebf5a74e636bcf09eb)|![Charlotte Cornfield](https://i.scdn.co/image/ab6761610000f178817dc9fa6edf0c870dbf5dbc)|![This Is Lorelei](https://i.scdn.co/image/ab6761610000f1782c506c0e91ce3f2e1c179392)|![Jason Isbell](https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11)|![Courtney Barnett](https://i.scdn.co/image/ab6761610000f1783ed0d3cdb91f128a8d7636d0)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ)|[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|[Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y)|[This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun)|
+  |[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ)|[This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun)|[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|[Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y)|
 <!-- end artists -->
