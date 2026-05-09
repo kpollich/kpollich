@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Waxahatchee](https://i.scdn.co/image/ab6761610000f178bb6b88ebf5a74e636bcf09eb)|![This Is Lorelei](https://i.scdn.co/image/ab6761610000f1782c506c0e91ce3f2e1c179392)|![MJ Lenderman](https://i.scdn.co/image/ab6761610000f17827fa0080c12d5330cf5562b8)|![Jason Isbell](https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11)|![The Beths](https://i.scdn.co/image/ab6761610000f178eb26b0d0de46b77e23675281)|
+  |![Waxahatchee](https://i.scdn.co/image/ab6761610000f178bb6b88ebf5a74e636bcf09eb)|![This Is Lorelei](https://i.scdn.co/image/ab6761610000f1782c506c0e91ce3f2e1c179392)|![MUNA](https://i.scdn.co/image/ab6761610000f178a454d2d193b70d07b91a9345)|![MJ Lenderman](https://i.scdn.co/image/ab6761610000f17827fa0080c12d5330cf5562b8)|![Jason Isbell](https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun)|[MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT)|[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|[The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin)|
+  |[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun)|[MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn)|[MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT)|[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|
 <!-- end artists -->
