@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Olivia Rodrigo](https://i.scdn.co/image/ab6761610000f178b14eb4dcfd2f3858bed06e44)|![Waxahatchee](https://i.scdn.co/image/ab6761610000f178bb6b88ebf5a74e636bcf09eb)|![Jason Isbell](https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11)|![Kurt Vile](https://i.scdn.co/image/ab6761610000f1788e479fc57372737933ff77b2)|![Jason Isbell and the 400 Unit](https://i.scdn.co/image/ab6761610000f178bd5ffed84abc55085599e2b3)|
+  |![Olivia Rodrigo](https://i.scdn.co/image/ab6761610000f178b14eb4dcfd2f3858bed06e44)|![Waxahatchee](https://i.scdn.co/image/ab6761610000f178bb6b88ebf5a74e636bcf09eb)|![Jason Isbell](https://i.scdn.co/image/ab6761610000f1789c4def51159843ebc3182b11)|![Jason Isbell and the 400 Unit](https://i.scdn.co/image/ab6761610000f178bd5ffed84abc55085599e2b3)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f1786e2d4ab2b84463aa4c349311)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG)|[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|[Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2)|[Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf)|
+  |[Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG)|[Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF)|[Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY)|[Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|
 <!-- end artists -->
