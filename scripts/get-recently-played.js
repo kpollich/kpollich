@@ -1,7 +1,5 @@
 require("dotenv").config();
 
-const axios = require("axios");
-const qs = require("query-string");
 const fs = require("fs");
 const path = require("path");
 const { stripIndent } = require("common-tags");
@@ -14,7 +12,10 @@ const {
 
 main()
   .then(() => console.log("Done"))
-  .catch((error) => console.error(error));
+  .catch((error) => {
+    console.error(error);
+    process.exitCode = 1;
+  });
 
 async function main() {
   const token = await getAccessToken();
@@ -40,21 +41,23 @@ async function main() {
 
 async function getAccessToken() {
   const url = "https://accounts.spotify.com/api/token";
-  const body = qs.stringify({
+  const body = new URLSearchParams({
     grant_type: "refresh_token",
     refresh_token: SPOTIFY_REFRESH_TOKEN,
   });
 
   const authHeader = getAuthHeader();
 
-  const response = await axios.post(url, body, {
+  const response = await fetch(url, {
+    method: "POST",
+    body,
     headers: {
       Authorization: authHeader,
       "Content-Type": "application/x-www-form-urlencoded",
     },
   });
 
-  const { access_token: token } = response.data;
+  const { access_token: token } = await parseResponse(response);
 
   return token;
 }
@@ -71,13 +74,25 @@ function getAuthHeader() {
 async function getTopArtists(token) {
   const url = "https://api.spotify.com/v1/me/top/artists?time_range=short_term";
 
-  const response = await axios.get(url, {
+  const response = await fetch(url, {
     headers: {
       Authorization: `Bearer ${token}`,
     },
   });
 
-  return response.data;
+  return parseResponse(response);
+}
+
+async function parseResponse(response) {
+  const data = await response.json();
+
+  if (!response.ok) {
+    throw new Error(
+      `Request to ${response.url} failed with status ${response.status}: ${JSON.stringify(data)}`
+    );
+  }
+
+  return data;
 }
 
 function generateArtistMarkdown(artists) {
