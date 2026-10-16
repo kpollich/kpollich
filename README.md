@@ -2,7 +2,7 @@
 
 
 I'm Kyle Pollich, a software engineer from Lancaster, Pennsylvania. I love web technology and solving challenging problems.
-I work at [Elastic](https://www.elastic.co/) as a Senior Engineering Manager on [Fleet](https://www.elastic.co/guide/en/fleet/current/fleet-overview.html), [Integrations](https://www.elastic.co/integrations), and [Managed Integrations](https://www.elastic.co/docs/solutions/security/get-started/agentless-integrations). 
+I work at [Elastic](https://www.elastic.co/) as a Tech Lead across various Observability products. 
 
 For more, check out my personal site: https://kylepolli.ch
 
