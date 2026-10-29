@@ -9,7 +9,7 @@ For more, check out my personal site: https://kylepolli.ch
 ## What I'm listening to lately
 
 <!-- begin artists -->
-  |![Wishy](https://i.scdn.co/image/ab6761610000f1781106277148ea3b2826d47ab8)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f1786e2d4ab2b84463aa4c349311)|![Jess Williamson](https://i.scdn.co/image/ab6761610000f178bd0e4589f3ad90cafaa65d9a)|![Cameron Winter](https://i.scdn.co/image/ab6761610000f17870fea1b7a7a5c70c895109dc)|![Medium Build](https://i.scdn.co/image/ab6761610000f178d324aac01e7b004a69dac3b3)|
+  |![Wishy](https://i.scdn.co/image/ab6761610000f1781106277148ea3b2826d47ab8)|![Phoebe Bridgers](https://i.scdn.co/image/ab6761610000f1786e2d4ab2b84463aa4c349311)|![Cameron Winter](https://i.scdn.co/image/ab6761610000f17870fea1b7a7a5c70c895109dc)|![Jess Williamson](https://i.scdn.co/image/ab6761610000f178bd0e4589f3ad90cafaa65d9a)|![Medium Build](https://i.scdn.co/image/ab6761610000f178d324aac01e7b004a69dac3b3)|
   |:---:|:---:|:---:|:---:|:---:|
-  |[Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9)|[Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO)|[Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn)|
+  |[Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe)|[Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG)|[Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO)|[Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9)|[Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn)|
 <!-- end artists -->
